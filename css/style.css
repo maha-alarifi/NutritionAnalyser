@@ -1,0 +1,42 @@
+body{
+  background-color: #000;
+  margin = 0;
+  text-align: center;
+}
+
+h1{
+  font-family: sans-serif;
+  color: #fff;
+  text-align: center;
+  background-color: #06c258;
+  border-radius: 100px;
+}
+
+.container{
+  width: 83%;
+  margin: auto;
+  border: 5px #333 solid;
+  border-radius: 80px;
+  padding: 20px;
+  margin: 20px 80px;
+  text-align: center;
+  background-color: #fff;
+}
+
+form input[type="file"]{
+  width: 50%;
+  background-color: #06c258;
+  color: #fff;
+  border: none;
+  text-align: center;
+}
+
+form input[type="submit"]{
+  width: 30%;
+  background-color: #06c258;
+  color: #fff;
+  border: 7px #333 solid;
+  text-align: center;
+  font-size: 24px;
+  border-radius: 100px;
+}
